@@ -11,7 +11,7 @@ export const siteConfig: SiteConfig = {
   domain: "jamicons.wolmer.me", // Used in utm_source for external links
   ogImage: {
     // Used in og:image for SEO
-    url: "https://example.com/images/banner.png",
+    url: "https://jamicons.wolmer.me/images/banner.png",
     width: 641,
     height: 320,
   },
